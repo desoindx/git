@@ -6,7 +6,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Button />
+        {/*¨Faut arreter de travailler sur le meme fichier*/}
+        <Home />
       </div>
     );
   }
